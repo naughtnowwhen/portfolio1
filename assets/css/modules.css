@@ -189,4 +189,45 @@ ul.icons {
 		button:active,
 		.button:active {
 			background-color: #7eaeac;
+    }
+    
+    
+/* Item */
+
+	.item {
+		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+		margin-bottom: 40px;
+	}
+
+		.item header {
+			background: #fff;
+			margin: 0;
+			padding: 1em 0 1em 0;
+			font-size: 0.8em;
+		}
+
+			.item header h3 {
+				font-size: 1em;
+			}
+
+/* Icons */
+
+	.icon {
+		text-decoration: none;
+	}
+
+		.icon:before {
+			display: inline-block;
+			font-family: FontAwesome;
+			font-size: 1.25em;
+			text-decoration: none;
+			font-style: normal;
+			font-weight: normal;
+			line-height: 1;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+
+		.icon > .label {
+			display: none;
 		}
