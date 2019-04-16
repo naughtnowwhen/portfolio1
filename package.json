@@ -1,0 +1,26 @@
+{
+  "name": "portfolio1",
+  "version": "1.0.0",
+  "description": "Prologue by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naughtnowwhen/portfolio1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naughtnowwhen/portfolio1/issues"
+  },
+  "homepage": "https://github.com/naughtnowwhen/portfolio1#readme",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "typescript": "^3.4.3"
+  }
+}
