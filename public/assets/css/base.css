@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap");
 
 /*
 	Prologue by HTML5 UP
@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font-family: 'Baloo Bhai', cursive;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -113,7 +113,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: darkslateblue;
 		line-height: 1.5em;
 	}
 
@@ -205,6 +205,10 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+	}
+
+	p {
+		color : purple;
 	}
 
 	br.clear {

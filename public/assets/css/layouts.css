@@ -1763,15 +1763,15 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: paleturquoise;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: skyblue;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: steelblue;
       }
       
       
@@ -2093,7 +2093,7 @@
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+        font-weight: 300;
 			}
 
 			.container {
